@@ -1,0 +1,28 @@
+.container{
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+  
+img{
+    max-width: 100% !important;
+    max-height:100% !important;
+}
+
+.text{
+    font-size: 20px !important;
+    padding-left: 20px !important;
+}
+
+.sucess span{
+    background-color: rgb(7, 207, 7) !important;
+    font-size: 2em!important;
+    padding: 5px !important;
+    border-radius: 5px !important;
+    margin-left: 2em !important;
+}
+
+.services .sucess{
+    font-size: 1em !important;
+}
+
